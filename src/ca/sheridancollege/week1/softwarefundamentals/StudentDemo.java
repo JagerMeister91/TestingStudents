@@ -31,7 +31,7 @@ public class StudentDemo
    */
   public void setStudentID(String givenID)
   {
-      studentID=givenID;
+      this.studentID=studentID;
   }
   /**
    * An accessor method for studentID
