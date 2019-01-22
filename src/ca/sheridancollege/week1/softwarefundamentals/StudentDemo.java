@@ -54,8 +54,8 @@ public class StudentDemo
      * A method to set the student's name
      * @param givenName the name to set
      */
-    public void setName(String givenName) {
-        name = givenName;
+    public void setName(String name) {
+        this.name = name;
     }
     
 }
