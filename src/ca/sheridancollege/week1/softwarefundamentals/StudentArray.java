@@ -9,6 +9,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * A class to create an array of students and print their names
  * @author Ali Hassan, 2019
  * My first comment added after branch creation
+ * My second comment added after branch was pushed.
  */
 public class StudentArray 
 {
